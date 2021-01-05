@@ -1,0 +1,82 @@
+h1
+{
+    color: red;
+}
+
+/* CSS */
+
+h1
+{
+  color: red;
+  border: 2px solid blue;
+  background-color: yellow;
+  font-family: verdana;
+}
+
+/* Code CSS */
+p strong 
+{
+    background-color: khaki;
+    color: green;
+}
+
+strong 
+{
+    text-decoration: underline;
+    color: red;
+}
+
+body {
+    background-color:#FFFFCC;
+    margin-left: 100px;
+   }
+   
+   h1 {
+    font-size: 48pt;
+    color :#FF0000;
+    font-style: italic;
+    border-bottom: solid thin black;
+   }
+   
+   p {
+    font-size: 12pt;
+    line-height: 14pt;
+    font-family: Arial;
+    letter-spacing: 0.2mm;
+    word-spacing: 0.8mm;
+    color: blue;
+   }
+   * h5 {
+    color: silver;
+}
+
+/* Style marge */
+
+
+
+
+
+
+
+   p {
+    padding : 1em;
+    border : 1px solid black;
+   }
+   span {
+    padding : 0.5em;
+    border : 1px solid green;
+    /* On rend la boîte visible, quel que soit son type */
+    background-color: yellow;
+   }
+   .inline {
+    display: inline;
+   }
+   .block {
+    display: block;
+   }
+
+
+
+
+
+
